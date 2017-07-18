@@ -3,8 +3,4 @@
 
 
 
-<style>
-#downloads {
-  display:none;
-}
-</style>
+<link rel="sylesheet" href="mystyle.css" />
