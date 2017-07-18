@@ -4,7 +4,7 @@
 
 
 <style>
-.btn-github {
+#downloads {
   display:none;
 }
 </style>
