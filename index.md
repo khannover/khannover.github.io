@@ -3,4 +3,4 @@
 
 
 
-<link rel="sylesheet" type="text/css" href="/mystyle.css" />
+<link rel="sylesheet" type="text/css" href="/mystyle.css">
