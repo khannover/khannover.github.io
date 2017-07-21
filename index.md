@@ -7,7 +7,10 @@
 		width: window.innerWidth,
 		height: window.innerHeight
 	});
-	document.body.appendChild(pattern.canvas())
+	document.body.appendChild(pattern.png())
 </script>
 
+<style>
+
+</style>
 <link rel="sylesheet" type="text/css" href="/mystyle.css">
