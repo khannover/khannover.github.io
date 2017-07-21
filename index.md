@@ -4,7 +4,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/trianglify/0.4.0/trianglify.min.js"></script>
 
 <style>
-body{
+bg-image{
  background: url(images/bg.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -18,5 +18,5 @@ body{
 		width: window.innerWidth,
 		height: window.innerHeight
 	});
-	document.body.style.backgroundImage = pattern.png();
+	document.write("<img src='" + pattern.png() + "' class='bg-image'>");
 </script>
