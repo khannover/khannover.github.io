@@ -10,6 +10,6 @@
 		width: window.innerWidth,
 		height: window.innerHeight
 	});
-	$("body").css("background-image", "url('data:image/png;base64," + pattern.png() + "') !important");
+	$("body").css("background-image", "url('" + pattern.png() + "') !important");
 	//document.write("<img src='" + pattern.png() + "' class='bg-image'>");
 </script>
